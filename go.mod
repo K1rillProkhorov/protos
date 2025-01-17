@@ -1,3 +1,3 @@
-module github.com/K1rillProkhorov/protos/v4
+module github.com/K1rillProkhorov/protos
 
 go 1.22
